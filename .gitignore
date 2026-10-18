@@ -1,0 +1,25 @@
+# Python / віртуальні середовища
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Тимчасові файли завантаження
+*.part
+
+# Дані кластера PostgreSQL, якщо pgserver стартував у каталозі проєкту
+pgdata/
+
+# Службове для ОС
+Thumbs.db
+.DS_Store
+
+# УВАГА: infectious_cases.csv свідомо НЕ ігнорується —
+# файл потрібен у репозиторії, бо notebook тягне його raw-посиланням у Colab.

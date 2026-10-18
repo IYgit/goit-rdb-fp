@@ -1,0 +1,4 @@
+# Однакові переводи рядка в репозиторії та при checkout на будь-якій ОС
+* text=auto eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf
