@@ -16,7 +16,7 @@
 | [`final_project.ipynb`](final_project.ipynb) | основний deliverable: SQL + коментарі + збережені результати |
 | [`solution.sql`](solution.sql) | весь SQL проєкту одним файлом, виконується через `psql` |
 | [`infectious_cases.csv`](infectious_cases.csv) | вхідні дані (10 521 рядок, 528 КБ) |
-| [`screenshots/`](screenshots/) | місце для скриншотів + перелік кадрів, які варто зняти |
+| [`screenshots/`](screenshots/) | 23 скриншоти виконання в Colab (таблиці, запити, результати) з описом кожного кадру |
 | [`task.md`](task.md) | умова завдання |
 
 ## Як запустити
